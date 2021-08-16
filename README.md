@@ -1,6 +1,6 @@
 # 小白学习Remi
 
-### 一、Remi前言
+[remi in Chinese](https://github.com/LightStarlight0/remi)
 
 [remi原项目地址](https://github.com/dddomodossola/remi)     [remi中文翻译项目](https://github.com/dddomodossola/remi)
 
